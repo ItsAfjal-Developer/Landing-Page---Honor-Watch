@@ -11,10 +11,6 @@ Designed for Modern Web Aesthetics and Product Display, this Page emphasizes Cla
   
 - Product Display Cards (White, Black, Smoky Editions)
   
-- Stylish UI with Soft Shadows and Rounded Cards
-  
-- "Buy Now" Call-to-Action Button
-  
 - Navigation Bar (Home, About, Smartphone, Store, Contact)
   
 - Interactive UI Elements (Theme switcher, hover effects)
