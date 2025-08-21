@@ -1,5 +1,5 @@
 # **Landing Page - Honor Watch**
-- An Elegant and Responsive Landing Page for the **Honor Watch - Element Series**, 
+An Elegant and Responsive Landing Page for the **Honor Watch - Element Series**, 
 Showcasing a premium Smartwatch Product with both **Dark Mode** and **Light Mode** Options.
 Designed for Modern Web Aesthetics and Product Display, this Page emphasizes Clarity, Usability and Visual Appeal.
 
